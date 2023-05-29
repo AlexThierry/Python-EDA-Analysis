@@ -1,1 +1,3 @@
 #files to ignore
+# ignore all directories with the name test
+.ipynb_checkpoints/
